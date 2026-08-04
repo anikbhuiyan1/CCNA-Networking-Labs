@@ -11,6 +11,10 @@ This project demonstrates the configuration of a GRE (Generic Routing Encapsulat
 - Connect Two Remote LANs
 - Verify End-to-End Connectivity
 
+## Network Topology
+
+![Network Topology](topology.png)
+
 ## Technologies Used
 
 - Cisco Packet Tracer
