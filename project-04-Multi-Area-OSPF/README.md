@@ -8,6 +8,10 @@ This project demonstrates the implementation of Multi-Area OSPF using Cisco Pack
 
 A company has expanded its network into two different departments. Configure Multi-Area OSPF so that all routers can exchange routing information dynamically.
 
+## Network Topology
+
+![Network Topology](topology.png)
+
 ## Objectives
 
 - Configure OSPF Process ID 1
